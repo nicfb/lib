@@ -35,7 +35,7 @@ alert_deprecation(
 __title__ = "kosmorrolib"
 __description__ = "A library to compute your ephemerides"
 __url__ = "http://kosmorro.space/lib"
-__version__ = "1.0.4"
+__version__ = "1.0.5"
 __author__ = "Jérôme Deuchnord"
 __author_email__ = "jerome@deuchnord.fr"
 __license__ = "AGPL-v3"
